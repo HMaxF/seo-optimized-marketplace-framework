@@ -1,0 +1,5 @@
+(http.request.uri.path eq "/") or (http.request.uri.path eq "/index.php") or (http.request.uri.path eq "")
+
+# Cache eligibility: Eligible for cache
+# Edge TTL: Ignore cache-control header and use this TTL: 2 hours
+# Browser TTL: Respect origin TTL
