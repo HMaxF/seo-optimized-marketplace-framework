@@ -22,6 +22,13 @@ The framework provides a seamless "Traditional" submission flow:
 ## 🌐 Live Application
 You can see these concepts in action at **[NomorSuper.com](https://www.nomorsuper.com)**, a leading marketplace for premium mobile numbers in Indonesia.
 
+Some other links:
+[About nomorsuper](https://www.nomorsuper.com/info/tentang-nomorsuper)
+[Hubungan bilangan prima dan nomor cantik](https://www.nomorsuper.com/info/hubungan-bilangan-prima-dan-nomor-cantik)
+[Nomor cantik 08 999 999 999](https://www.nomorsuper.com/nomor-cantik/08999999999)
+
+
+
 ## 👨‍💻 Author
 **Hariyanto** *Senior Full Stack Engineer* Specializing in SEO, Web Performance, and Scalable Architectures.
 
